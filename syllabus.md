@@ -8,10 +8,14 @@
 
 ## Week 3
 
-- Judith Butler, *Gender Trouble*
+- Jules Gill-Peterson, *Histories of the Transgender Child*
 
 ## Week 4
 
--Siobhan Somerville, *Queering the Color Line*
+- Tavia Nyong'o, *The Amalgamation Waltz*
+
+## Week 5
+
+- C. Riley Snorton, *Black on Both Sides*
 
 I teach at [Rutgers University-Newark](https://newark.rutgers.edu)
