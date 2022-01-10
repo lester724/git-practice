@@ -10,4 +10,8 @@
 
 - Judith Butler, *Gender Trouble*
 
+## Week 4
+
+-Siobhan Somerville, *Queering the Color Line*
+
 I teach at [Rutgers University-Newark](https://newark.rutgers.edu)
