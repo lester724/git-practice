@@ -20,4 +20,4 @@
 
 I teach at [Rutgers University-Newark](https://newark.rutgers.edu)
 
-[Test](..lester724/git-practice/main/Test.csv)
+[Test](https://github.com/lester724/git-practice/blob/main/Test.csv)
