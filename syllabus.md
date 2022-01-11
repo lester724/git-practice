@@ -20,4 +20,4 @@
 
 I teach at [Rutgers University-Newark](https://newark.rutgers.edu)
 
-[Test](..lester724/main/Test.csv)
+[Test](..main/Test.csv)
