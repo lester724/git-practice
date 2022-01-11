@@ -19,3 +19,4 @@
 - C. Riley Snorton, *Black on Both Sides*
 
 I teach at [Rutgers University-Newark](https://newark.rutgers.edu)
+[Wikipedia](https://en.wikipedia.org)
